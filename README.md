@@ -7,3 +7,9 @@ This project involved the design and construction of the SmartCane, with the pur
 ### Theory Of Operation
 An ultrasonic sensor is located on the front of the bottom of the cane. When the sensor detects in object in front of it that is closer than 20cm, it will activate a vibration motor located on the handle of the cane. The vibration will then stop once the object is further than the threshold. The SmartCane also has the ability to detect water at ground-level. When the bottom of the SmartCane encounters enough water, it will active a buzzer. The buzzer will continue to sound until the SmartCane is taken out of the water. When in need of saving battery, the SmartCane can also be put into low-power mode using the capacitive touch sensor. In low-power mode, power consumption is greatly reduced, which allows the battery to last longer.
 
+### Schematic
+<img src="https://github.com/ZachG-gnu/SmartCane/blob/master/images/SmartCane_schematic.png" width="800" height="auto">
+
+### Thumbnail
+<img src="https://github.com/ZachG-gnu/SmartCane/blob/master/images/SmartCane_thumbnail.png" width="600" height="auto">
+
